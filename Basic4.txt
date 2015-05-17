@@ -1,0 +1,5 @@
+Steps:
+1. Right click on the text field (of Email alert) and click on inspect element.
+2. Change sam@hackthissite.org to your email address.
+3. Click on Submit
+4. Password is sent to the email address specified.

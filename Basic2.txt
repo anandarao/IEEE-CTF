@@ -1,0 +1,3 @@
+Steps:
+1. Since there is no passowrd file, there is no password.
+2. Click on submit button with blank text box.

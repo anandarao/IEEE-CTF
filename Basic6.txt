@@ -1,0 +1,5 @@
+Steps:
+1. On entering 'aaaaa' the output is 'abcde'
+2. So the code increases ascii (logic clear from above).
+3. Decrease ascii for 3e566k>>
+4. Password : 3d332f87
