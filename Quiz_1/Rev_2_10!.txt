@@ -1,0 +1,13 @@
+Problem : Make bin2.out print 'Success'.
+
+Steps :
+
+1. Download the bin2.out from https://gist.github.com/kbhat95/5729edd4e323cd7e52dc .
+2. Open it with radare2.
+3. Go to sys.main().
+4. We can see that the sys.func() is called with 0xa i.e 10.
+5. sys.func() is a function to find factorial of a number using recursion.
+6. So 10! = 3628800.
+7. This value is divided by the input and compared with 0x15180 i.e 86400.
+8. So answer x = 3628800/86400 = 42.
+9. Input of 42 gives 'Success'.

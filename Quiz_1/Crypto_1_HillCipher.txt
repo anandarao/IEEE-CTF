@@ -1,0 +1,10 @@
+Cipher Text : KZGT
+Key : BBBBBCBCBBBABECD
+Hint : "a landform that extends above the surrounding terrain".
+
+Steps:
+
+1. Google the hint. Result is hill. So its a hill cipher.
+2. Description of hill cipher can be found here : https://en.wikipedia.org/wiki/Hill_cipher .
+3. Decipher the cipher text using online tools to invert and multiply matrices.
+4. The plain-text obtained is 'BLUE'.

@@ -1,0 +1,17 @@
+Problem : Make bin1.out to print anything other than 'Try harder'.
+
+Download bin1.out from https://gist.github.com/kbhat95/5729edd4e323cd7e52dc.
+
+Steps :
+
+1  By inspection we can see that the program takes three command line arguments.
+2. The possible outputs are 
+	a. Try harder
+	b. You_have_found__an__answer._Find_the_logic_as_well
+	c. Some numbers (explained below)
+
+3. The program checks if the three numbers are the coefficients of a quadratic equation.
+4. Let the input be a,b and c.
+5. If b^2 - 4*a*c ==0 then 'You_have_found__an__answer._Find_the_logic_as_well' is printed.
+6. If b^2 - 4*a*c >0 then the roots are displayed.
+7. If b^2 - 4*a*c <0 then 'Try harder' is displayed.
