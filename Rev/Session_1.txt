@@ -1,0 +1,13 @@
+Problem : 
+	Make the bin.out file print 'Success'
+
+Quick Explanation :
+	The code checks whether the inputs are Pythagorean triplets.
+
+Solution :
+
+1. Let the inputs be a,b and c.
+2. First these conditions are checked a==3 , b==4 , c==4 .
+3. If any of these is true then 'Fail' is printed.
+4. Next, if they are not Pythagorean triplets then 'Nope' is printed.
+5. If they are Pythagorean triplets then 'Success' is printed.

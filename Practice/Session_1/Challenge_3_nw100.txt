@@ -1,0 +1,11 @@
+Steps :
+
+1. Download the nw100.pcap from https://github.com/ctfs/write-ups-2014/blob/master/seccon-ctf-2014/get-the-key/nw100.pcap .
+2. Open it with cloud shark.
+3. From the GET request the credentials obtained are 
+	Username : seccon2014
+	Password : YourBattleField
+4. See the first GET request to get the url http://133.242.224.21:6809/nw100/
+5. Enter the credentials obtained
+6. Click on key.html .
+7. The flag obtained is : SECCON{Basic_NW_Challenge_Done!} .

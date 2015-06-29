@@ -1,0 +1,10 @@
+Steps:
+
+1. Download the guess.jar from https://drive.google.com/file/d/0Bwjh40jZinOccm5vbDcwSkp2Vmc/view .
+2. Extract the guess.class using WinRar.
+3. Use http://www.showmycode.com/ to decompile the guess.class
+4. Two strings are obtained.
+	String 1 : 4b64ca12ace755516c178f72d05d7061
+	String 2 : ecd44646cfe5994ebeb35bf922e25dba
+5. The flag is the XOR of these two strings.
+	Flag : a7b08c546302cc1fd2a4d48bf2bf2ddb

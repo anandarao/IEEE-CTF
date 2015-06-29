@@ -1,0 +1,10 @@
+Steps :
+
+1. Download the image.jpg from https://drive.google.com/file/d/0Bwjh40jZinOcM0wwcmhodTllSDg/view .
+2. Open the image with gedit to find this line at the end.
+	K = "KhtgduHjj" Guess ?
+3. Use outguess to retrieve data from the image using the following command.
+	outguess -k "KhtgduHjj" -r image.jpg output.txt
+4. The decoded message is : Jbhun_Hlbh_S0HhaQ_GU3_SyNnt0K_==
+5. This is a shift cipher with key 13.
+6. Finally the flag obtained is : Wouha_Uyou_F0UunD_TH3_FlAag0X_==

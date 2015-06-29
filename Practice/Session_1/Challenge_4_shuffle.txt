@@ -1,0 +1,6 @@
+Steps:
+
+1. Download the file shuffle from https://github.com/ctfs/write-ups-2014/blob/master/seccon-ctf-2014/shuffle/shuffle .
+2. Analyse it with radare2
+3. Flag is visible letter by letter on the right.
+4. Flag is : SECCON{Welcome to the SECCON 2014 CTF!}
